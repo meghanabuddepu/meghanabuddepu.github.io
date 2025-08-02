@@ -50,3 +50,26 @@ footer {
   padding: 1rem;
   margin-top: 2rem;
 }
+.certifications {
+  padding: 20px;
+}
+
+.certifications h2 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.certifications ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+.certifications a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.certifications a:hover {
+  text-decoration: underline;
+}
